@@ -1,7 +1,7 @@
 # manbiki-shonen
 1979年にPET 2001で作られた世界初のステルスゲームを現代風のWebブラウザゲームにしたもの。
 
-[ゲームはgithub.ioで遊べる](https://sarinaga.github.io/manbiki-shonen/)ようになっています。
+[ゲームはGitHub Pagesで遊べる](https://sarinaga.github.io/manbiki-shonen/)ようになっています。
 
 ## ゲームの目的
 
@@ -10,7 +10,7 @@
 
 ## 操作方法
 
-[ChatGPTによる検閲により犯罪表現を消されてしまったインストラクションカード](./Instruction_card.png)に、ゲームの目的や操作方法などが書かれています。本当はこのREADME.mdに書かれている文面にしたかったのですが。
+[ChatGPTによる検閲により犯罪表現を消されてしまったインストラクションカード](./Instruction_card.png)([英語版](./Instruction_card.eng.png))に、ゲームの目的や操作方法などが書かれています。本当はこのREADME.mdに書かれている文面にしたかったのですが。
 
 ### キーボード
 
