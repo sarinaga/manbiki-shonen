@@ -1,7 +1,7 @@
 # manbiki-shonen
 1979年にPET 2001で作られた世界初のステルスゲームを現代風のWebブラウザゲームにしたもの。
 
-[ゲームはGitHub Pagesで遊べる](https://sarinaga.github.io/manbiki-shonen/)ようになっています。
+ゲームは[GitHub Pages](https://sarinaga.github.io/manbiki-shonen/)ないし[itch.io](https://sarinaga.itch.io/manbiki-shonen)で遊べるようになっています。
 
 ## ゲームの目的
 
