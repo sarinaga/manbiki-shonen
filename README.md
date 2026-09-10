@@ -10,7 +10,7 @@
 
 ## 操作方法
 
-[ChatGPTによる検閲により犯罪表現を消されてしまったインストラクションカード](./Instruction_card.png)([英語版](./Instruction_card.eng.png))に、ゲームの目的や操作方法などが書かれています。本当はこのREADME.mdに書かれている文面にしたかったのですが。
+[ChatGPTによる検閲により犯罪表現を消されてしまったインストラクションカード](./itchio_cover/Instruction_card.jpg)([英語版](./itchio_cover/Instruction_card.eng.jpg))に、ゲームの目的や操作方法などが書かれています。本当はこのREADME.mdに書かれている文面にしたかったのですが。
 
 ### キーボード
 
